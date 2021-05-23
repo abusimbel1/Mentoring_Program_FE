@@ -3,7 +3,8 @@ import './style.scss'
 // function sum(a: number, b: number) {
 //   return a + b;
 // }
-const h1 = document.createElement('h1'   )     ; 
+const a = 1
+const h1 = document.createElement('h1')
 document.body.appendChild(h1)
 const newH1 = document.querySelector('h1')
 newH1?.setAttribute('id', 'title')
